@@ -22,6 +22,6 @@ public class Q3 {
         Q3 obj=new Q3();
         System.out.println("ENTER THE NUMBER");
         int N=sc.nextInt();
-        System.out.println(obj.facto(N));
+        System.out.println("The factorial of given number :"+obj.facto(N));
     }
 }
