@@ -1,5 +1,6 @@
+package Assignment_1;
 /*
-Q2. write a program to check entered character is vowel or not?
+Assignment_1.Q2. write a program to check entered character is vowel or not?
  */
 
 import java.util.Scanner;
