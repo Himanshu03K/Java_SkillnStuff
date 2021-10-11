@@ -1,5 +1,5 @@
-/*
-Q3.Create a program based on given condition----
+package Assignment_1;/*
+Assignment_1.Q3.Create a program based on given condition----
  step 1 : enter a marks%(integer)
  step 2: check if mark > 90 then grade is A and print Excellent
  step 3: check if mark >75 < 90 grade is B and print Good
