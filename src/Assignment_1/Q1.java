@@ -1,5 +1,5 @@
-/*
-Q1. Write a program to check the input number is greater then 100 and less then 500 is even or odd?
+package Assignment_1;/*
+Assignment_1.Q1. Write a program to check the input number is greater then 100 and less then 500 is even or odd?
  */
 
 
